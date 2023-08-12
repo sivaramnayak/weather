@@ -18,7 +18,6 @@ Real-Time Weather Updates:
 
 The neatly organized weather information is then sent back to the frontend, where it is displayed to you in real-time. You can see all the essential weather details at a glance.
 
-Video Link:https://drive.google.com/file/d/1uKrHQLhrwKy5y6za6aSzKG766ztHTQQ/view?usp=drivesdk
 
 
 
